@@ -13,7 +13,7 @@ Python libraries:
 
 # Installation
 
-. Download the packages
+. Installing dependencies
 
 ```
 sudo apt-get install python2.7 python-opencv python-matplotlib python-numpy
