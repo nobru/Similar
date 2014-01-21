@@ -13,14 +13,31 @@ Python libraries:
 
 # Installation:
 
+. Download the packages
+
 ```
 sudo apt-get install python2.7 python-opencv python-matplotlib python-numpy
+```
 
+. Clone the project
+
+```
 git clone git@github.com:Nobru/Similar.git
+```
 
+. Go to the bin dir
+
+```
 cd Similar/bin
+```
 
+. Set the similar file executable
+
+```
 chmod +x similar
+```
+. Run similar
 
+```
 ./similar
 ```
