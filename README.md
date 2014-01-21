@@ -11,7 +11,7 @@ Python libraries:
 - Matplotlib
 - Numpy
 
-# Installation:
+# Installation
 
 . Download the packages
 
