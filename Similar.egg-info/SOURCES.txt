@@ -1,0 +1,7 @@
+setup.py
+Similar.egg-info/PKG-INFO
+Similar.egg-info/SOURCES.txt
+Similar.egg-info/dependency_links.txt
+Similar.egg-info/requires.txt
+Similar.egg-info/top_level.txt
+bin/similar
