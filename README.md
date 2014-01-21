@@ -11,11 +11,16 @@ Python libraries:
 - Matplotlib
 - Numpy
 
-# Instalation:
+# Installation:
 
-apt-get install python2.7 python-opencv python-matplotlib python-numpy
+```
+sudo apt-get install python2.7 python-opencv python-matplotlib python-numpy
 
 git clone git@github.com:Nobru/Similar.git
 
-cd Similar/bin && similar
+cd Similar/bin
 
+chmod +x similar
+
+./similar
+```
